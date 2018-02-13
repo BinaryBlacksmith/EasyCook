@@ -1,0 +1,35 @@
+CS/MIS Capstone Project Proposal 
+Jared Ring, Viktor Tunnikov, Andrii Rutnytskyi
+
+Project Description:
+The main idea of the application is designed to allow users to find recipes in a fast and comfortable way. By allowing users to enter ingredients that are present in their fridge, application will generate requests to the API mentioned in the section of technologies required, and returns possible recipes that can be made out of these ingredients. Amount of each ingredient would be also considered on stage of selecting ingredient. 
+	We considered that the application would need two ways of receiving information. The main priority is to build user friendly interface that will be intuitive and easy to use. Another option that would be in development is input by voice. In this case Google’s API will be used  to implement the voice functionality. The Google API may be found here.
+We will utilize a subscription API to access recipes for the dishes. This will provide consistent quality of recipes and avoid any copyright issues. The API may be found here.
+The application will also provide categories for the users. For example vegetarian food, or food that consists meat. 
+
+Possible scope expansion;
+May be implemented functionality of frequently used ingredients and recipes at a higher priority. Other ideas may be added during the project development.
+
+Resources needed;
+Spoonacular Food API Database subscription - 10$.
+Google API - 15$.
+
+Development Technologies;
+Python
+Java
+Android Studio
+Spoonacular API Database
+Google Voice Speech API 
+Google Play Store 
+
+
+
+
+Timeline:
+January - Application Concept & Scope of the Project. (Requirements Stage)
+February - Application Design & Code.
+March - Coding
+April - Quality Testing & Adding Extra Features. Presenting the Project.
+20 April - Project presentation. 
+
+
